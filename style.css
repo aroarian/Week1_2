@@ -1,0 +1,38 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    vertical-align: 50%;
+
+}
+
+.head {
+    height: 100px;
+    background-color: black;
+    
+}
+
+h2 {
+    text-align: left;
+    padding-left: 100px;
+}
+
+img {
+    padding-left: 100px;
+    padding-right: 20px;
+    float: left;
+}
+
+.Bio {
+    text-align: left;
+    width: 550px;
+}
+
+
